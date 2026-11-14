@@ -45,7 +45,7 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 ollama pull qwen3:1.7b
 ollama pull qwen3-embedding:0.6b
-./start.command
+zsh start.command
 ```
 
 On Windows PowerShell:
