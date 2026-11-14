@@ -1,0 +1,10 @@
+whisperlivekit==0.2.26
+faster-whisper==1.2.1
+rapidocr-onnxruntime==1.4.4
+fastapi==0.162.0
+uvicorn==0.54.0
+websockets==17.3
+torch==2.8.0
+torchaudio==2.8.0
+transformers==4.57.6
+nvidia-cudnn-cu12==9.10.2.21
